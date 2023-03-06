@@ -1,0 +1,28 @@
+.menue li {
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+
+    
+   
+   
+  
+
+}
+
+
+.menue li a{
+    text-decoration: none;
+    
+}
+
+.container{
+      border: 1px solid blue;
+
+
+}
+
+.logo{
+
+
+}
